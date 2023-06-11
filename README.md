@@ -20,7 +20,7 @@
 
 Bicycle Route Finder is a web application that allows users to find bicycle routes between two locations. It utilizes the Google Maps API to provide accurate route information and turn-by-turn directions. This project is designed to help cyclists plan their rides and discover the most suitable routes for their needs.
 
-Live Demo: (https://bicycleroutefinder.000webhostapp.com/))
+Live Demo: (https://bicycleroutefinder.000webhostapp.com/)) 
 Project Blog Article:  (https://developer366.blogspot.com/2023/06/bicycle-route-finder.html)
 Author LinkedIn: (https://linkedin.com/in/abubakarSani)
 
