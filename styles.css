@@ -1,0 +1,45 @@
+/* Add custom styles here */
+
+/* Header */
+.navbar {
+  background-color: #333;
+}
+
+.navbar-brand {
+  color: #fff;
+}
+
+/* Login Form */
+.container {
+  margin-top: 100px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.alert {
+  margin-top: 20px;
+}
+
+/* Admin Panel */
+.table {
+  margin-top: 20px;
+}
+
+/* Route Details */
+#map {
+  height: 400px;
+}
+
+/* Footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
