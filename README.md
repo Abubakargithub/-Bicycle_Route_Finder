@@ -2,7 +2,7 @@
  Bicycle Route Finder
 # Bicycle Route Finder
 
-![Bicycle Route Finder](screenshot.png)
+![Bicycle Route Finder](logo2.png)
 
 > Find bicycle routes between locations and get turn-by-turn directions.
 
